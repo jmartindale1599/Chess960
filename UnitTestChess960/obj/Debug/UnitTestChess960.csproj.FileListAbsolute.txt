@@ -17,3 +17,22 @@ C:\Users\jmartindale\Desktop\Really Good One\UnitTestChess960\obj\Debug\UnitTest
 C:\Users\jmartindale\Desktop\Really Good One\UnitTestChess960\obj\Debug\UnitTestChess960.csproj.CopyComplete
 C:\Users\jmartindale\Desktop\Really Good One\UnitTestChess960\obj\Debug\UnitTestChess960.dll
 C:\Users\jmartindale\Desktop\Really Good One\UnitTestChess960\obj\Debug\UnitTestChess960.pdb
+C:\Users\jmartindale\Desktop\Chess960\Chess960\UnitTestChess960\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\jmartindale\Desktop\Chess960\Chess960\UnitTestChess960\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\jmartindale\Desktop\Chess960\Chess960\UnitTestChess960\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\jmartindale\Desktop\Chess960\Chess960\UnitTestChess960\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\jmartindale\Desktop\Chess960\Chess960\UnitTestChess960\bin\Debug\Help\HD.pdf
+C:\Users\jmartindale\Desktop\Chess960\Chess960\UnitTestChess960\bin\Debug\UnitTestChess960.dll
+C:\Users\jmartindale\Desktop\Chess960\Chess960\UnitTestChess960\bin\Debug\UnitTestChess960.pdb
+C:\Users\jmartindale\Desktop\Chess960\Chess960\UnitTestChess960\bin\Debug\ChessKing.exe
+C:\Users\jmartindale\Desktop\Chess960\Chess960\UnitTestChess960\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\jmartindale\Desktop\Chess960\Chess960\UnitTestChess960\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\jmartindale\Desktop\Chess960\Chess960\UnitTestChess960\bin\Debug\ChessKing.pdb
+C:\Users\jmartindale\Desktop\Chess960\Chess960\UnitTestChess960\bin\Debug\ChessKing.exe.config
+C:\Users\jmartindale\Desktop\Chess960\Chess960\UnitTestChess960\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\jmartindale\Desktop\Chess960\Chess960\UnitTestChess960\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\jmartindale\Desktop\Chess960\Chess960\UnitTestChess960\obj\Debug\UnitTestChess960.csproj.AssemblyReference.cache
+C:\Users\jmartindale\Desktop\Chess960\Chess960\UnitTestChess960\obj\Debug\UnitTestChess960.csproj.CoreCompileInputs.cache
+C:\Users\jmartindale\Desktop\Chess960\Chess960\UnitTestChess960\obj\Debug\UnitTestChess960.csproj.CopyComplete
+C:\Users\jmartindale\Desktop\Chess960\Chess960\UnitTestChess960\obj\Debug\UnitTestChess960.dll
+C:\Users\jmartindale\Desktop\Chess960\Chess960\UnitTestChess960\obj\Debug\UnitTestChess960.pdb

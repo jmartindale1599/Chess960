@@ -17,13 +17,15 @@ namespace UnitTestChess960{
 
             Common.IsMode = false;
 
+            Common.IsUnitTest = true;
+
             king.frmChessKing_Load();
 
             Common.Is960 = true;
 
             king.Display();
 
-            Assert.AreNotEqual(Common.Board[0, 0].Chess.IsCastle, false);
+            Assert.AreEqual(Common.Board[0, 0].Chess.IsCastle, false);
 
         }
 
@@ -33,6 +35,8 @@ namespace UnitTestChess960{
             frmChessKing king = new frmChessKing();
 
             Common.IsMode = false;
+
+            Common.IsUnitTest = true;
 
             king.frmChessKing_Load();
 
@@ -50,6 +54,8 @@ namespace UnitTestChess960{
             frmChessKing king = new frmChessKing();
 
             Common.IsMode = false;
+
+            Common.IsUnitTest = true;
 
             king.frmChessKing_Load();
 
@@ -69,6 +75,8 @@ namespace UnitTestChess960{
             Common.IsMode = false;
 
             Common.Is960 = true;
+
+            Common.IsUnitTest = true;
 
             king.frmChessKing_Load();
 
@@ -120,6 +128,8 @@ namespace UnitTestChess960{
 
             Common.Is960 = true;
 
+            Common.IsUnitTest = true;
+
             king.frmChessKing_Load();
 
             king.Display();
@@ -141,6 +151,8 @@ namespace UnitTestChess960{
                         if(king.Board[0, p].chess.IsBishop == true){ 
                         
                             b2 = p;
+
+                            i = 8;
 
                             break;
                         

@@ -15,7 +15,13 @@ namespace ChessKing
 		public ChessSquare(ChessSquare a)
 		{
 			Chess = a.Chess;
-			Image = a.Image;
+
+			if(a.Image != null){ 
+			
+				Image = a.Image;
+			
+			}
+
 			Row = a.Row;
 			Col = a.Col;
 		}

@@ -10,6 +10,7 @@ namespace ChessKing
 		static public int IsTurn = 0;
 		static public bool IsEvaluation = true;
 		static public bool Is960 = false;
+		static public bool IsUnitTest = false;
 
 		static public ChessSquare[,] Board;// = new ChessSquare[8, 8];
 
